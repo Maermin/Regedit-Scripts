@@ -1,0 +1,11 @@
+Windows Registry Editor Version 5.00 [HKEY_CLASSES_ROOT\.pdf]
+@="AcroExch.Document"
+"Content Type"="application/pdf" [HKEY_CLASSES_ROOT\.pdf\OpenWithList]
+@="" [HKEY_CLASSES_ROOT\.pdf\OpenWithList\Acrobat.exe]
+@="" [HKEY_CLASSES_ROOT\.pdf\OpenWithProgids]
+@=""
+"Acrobat.Document.DC"=hex(0):
+"AppXd4nrz8ff68srnhf9t5a8sbjyar1cr723"=hex(0):
+"ChromeHTML"=""
+"MSEdgePDF"="" [HKEY_CLASSES_ROOT\.pdf\ShellEx] [HKEY_CLASSES_ROOT\.pdf\ShellEx\{8895b1c6-b41f-4c1c-a562-0d564250836f}]
+@="{3A84F9C2-6164-485C-A7D9-4B27F8AC009E}"
